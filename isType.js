@@ -2,7 +2,7 @@
 	/**
 	 * 数据类型判断
 	 * @author sipeng
-	 * site: http://www.sipent.net
+	 * site: http://www.sipeng.net
 	 * Date: 2016-11-4
 	 */
 	function IsType( data,type ){
